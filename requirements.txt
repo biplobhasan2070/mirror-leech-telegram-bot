@@ -3,6 +3,7 @@ aiofiles
 aioshutil
 anytree
 apscheduler
+oauth2client
 aria2p
 asyncio
 beautifulsoup4
